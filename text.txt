@@ -1,0 +1,12 @@
+
+
+ https://app.pluralsight.com/library/courses/node-intro/table-of-contents 
+
+
+
+https://app.pluralsight.com/library/courses/nodejs-advanced/table-of-contents
+
+
+
+
+https://github.com/johnpapa/angular-styleguide
